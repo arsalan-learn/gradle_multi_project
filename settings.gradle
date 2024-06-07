@@ -1,0 +1,4 @@
+rootProject.name = 'my-multi-project'
+include 'shared:common:lib-adjust'
+include 'subproject1'
+include 'subproject2'
